@@ -17,7 +17,7 @@
     <td valign="top" align="center">
         <h2>⚒️ My Stack of Technologies ⚒️</h2>
         <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow,sklearn,fastapi" /><br>
-        <img src="https://skillicons.dev/icons?i=vscode,clion,git,github,docker,html,css,nginx,linux" />
+        <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,html,css,nginx,linux" />
     </td>
     <td valign="top" align="center">
         <h2>⚡ Stats ⚡</h2>
