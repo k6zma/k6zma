@@ -1,8 +1,21 @@
-# My Stack of Technlologies
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=3000&pause=10&color=F70000&center=true&vCenter=true&random=false&width=700&height=100&lines=Hello%2C+World!+%F0%9F%AB%B6%F0%9F%8F%BB;I'm+k6zma;I'm+a+beginner+in+ML+and+Backend" alt="Typing SVG">
+    </a>
+</div>
 
-<img src="https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python&logoColor=gold"/> <img src="https://img.shields.io/badge/PYTORCH-black?style=for-the-badge&logo=PyTorch&logoColor=orange"/> <img src="https://img.shields.io/badge/TensorFLow-black?style=for-the-badge&logo=TensorFlow&logoColor=orange"/> <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=orange"/> <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue"/> <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yelow"/> <img src="https://img.shields.io/badge/JUPYTER-black?style=for-the-badge&logo=jupyter&logoColor=orange"/> <img src="https://img.shields.io/badge/DOCKER-black?style=for-the-badge&logo=docker&logoColor=blue"/> <img src="https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=linux&logoColor=yellow"/> <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=orange"/>
+<div align="center">
+ 
+ 🥰 I am currently studying at **ITMO University**
+ 
+ 🤯 I’m currently learning **FastAPI, Nginx**
 
-<img src="https://www.codewars.com/users/k6zma/badges/large?logo=false">
+</div>
 
-![k6zma'sGitHub Stats](https://github-readme-stats.vercel.app/api?username=k6zma&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k6zma&theme=radical)
+<h2 align="center">⚒️ My Stack of Technlologies ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow,sklearn,fastapi" />
+    <p></p>
+    <img src="https://skillicons.dev/icons?i=vscode,clion,git,docker,html,css,nginx,linux" /><br>
+</div>
