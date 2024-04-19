@@ -21,8 +21,9 @@
     </td>
     <td valign="top" align="center">
         <h2>⚡ Stats ⚡</h2>
-        <img src="https://github-readme-stats-salesp07.vercel.app/api?username=k6zma&count_private=true&show_icons=true&theme=midnight-purple&border_radius=10" alt="readme stats">
+        <img src="https://github-readme-stats-salesp07.vercel.app/api?username=k6zma&count_private=true&show_icons=true&theme=midnight-purple&border_radius=12" alt="readme stats">
         <br>
+        <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=k6zma&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&border_radius=12" alt="top langs">
     </td>
 </tr>
 </table>
