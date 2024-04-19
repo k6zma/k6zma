@@ -5,9 +5,9 @@
 </div>
 
 <div align="center">
-    🥰 I am currently studying at **ITMO University**
+    🥰 I am currently studying at <b>ITMO University</b>
     <br/>
-    🤯 I’m currently learning **FastAPI, Nginx**
+    🤯 I’m currently learning <b>FastAPI, Nginx</b>
 </div>
 
 <br/>
