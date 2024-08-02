@@ -7,7 +7,7 @@
 <div align="center">
     🥰 I am currently studying at <b>ITMO University</b>
     <br/>
-    🤯 I’m currently learning <b>FastAPI, Nginx</b>
+    🤯 I’m currently learning <b>GIN, gRPC</b>
 </div>
 
 <br/>
@@ -16,8 +16,9 @@
 <tr>
     <td valign="top" align="center">
         <h2>⚒️ My Stack of Technologies ⚒️</h2>
+        <img src="https://skillicons.dev/icons?i=go,postgres,docker,nginx,bash,linux" /><br>
         <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow,sklearn,fastapi" /><br>
-        <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,html,css,nginx,linux" />
+        <img src="https://skillicons.dev/icons?i=vscode,git,github,html,css,grafana" />
     </td>
     <td valign="top" align="center">
         <h2>⚡ Stats ⚡</h2>
