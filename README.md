@@ -5,9 +5,13 @@
 </div>
 
 <div align="center">
-    🥰 I am currently studying at <b>ITMO University</b>
+    🥰 I am currently studying at <b>ITMO University and T-Edu Backend Academy</b>
     <br/>
-    🤯 I’m currently learning <b>GIN, gRPC</b>
+</div>
+
+<div align="center">
+     <div align="center">
+    🔥<a href="https://k6zma-cv.tiiny.site/" target="_blank">CV</a>🔥
 </div>
 
 <br/>
