@@ -118,3 +118,5 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=1&pause=10000000000000000&color=FF0000&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%90%8D+My+Contributions+%F0%9F%90%8D" alt="Typing SVG" />
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/k6zma/k6zma/output/github-contribution-grid-snake.svg" />
 </div>
+
+---
