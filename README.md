@@ -37,11 +37,6 @@ The platform integrates ASR, NLP, and report generation technologies to automati
 - Sherpa-onnx
 
 ---
-<div align="center">
-    <img src="https://github-readme-stats-salesp07.vercel.app/api?username=k6zma&count_private=true&show_icons=true&theme=midnight-purple&border_radius=12" alt="readme stats"> <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=k6zma&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&border_radius=12" alt="top langs">
-</div>
-
-<p></p>
 
 <div align="center">
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/k6zma/k6zma/output/github-contribution-grid-snake.svg" />
