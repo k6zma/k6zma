@@ -16,7 +16,7 @@ At the moment, I work at `VK Tech` as part of the team developing a universal in
 
 ---
 
-## **`Working on`**
+## **`Working on Notula`**
 
 ### **Description:**
 
