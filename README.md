@@ -6,8 +6,6 @@ Hi, **I’m Mikhail** - a `Go Developer`. I specialize in `backend` and `infrast
 
 I’m currently a third-year student at `ITMO University`, enrolled in the `Avito.Tech x ITMO` program, where I’m improving my skills in industrial software development and teamwork.
 
-At the moment, I work at `VK Tech` as part of the team developing a universal installer for the `On-Premise` version of the corporate system `VK WorkSpace`.
-
 ---
 
 ## **`Technology stack`**
